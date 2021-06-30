@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SplitWise_UI/1.0.0": {
+        "runtime": {
+          "SplitWise_UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplitWise_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
